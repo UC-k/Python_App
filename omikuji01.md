@@ -3,9 +3,9 @@
 ## CUIとは
 CUI（Character User Interface）とは、文字によるコマンド入力方式のインターフェイスのこと。
 
-
 <br>
 
+---
 **omikuji01.py**
 ``` python
 # randomモジュールのインポート
