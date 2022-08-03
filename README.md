@@ -6,5 +6,4 @@
 
 ### 第１回
 #### CUIでのおみくじ
-- [説明](https://github.com/UC-k/Python_App/blob/main/omikuji01.md)
 - [コード](https://github.com/UC-k/Python_App/blob/main/omikuji01.py)
