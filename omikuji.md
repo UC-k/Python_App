@@ -1,4 +1,4 @@
-# 1. UIについて
+# 1. CUIについて
 
 ## CUIとは
 CUI（Character User Interface）とは、文字によるコマンド入力方式のインターフェイスのこと。
