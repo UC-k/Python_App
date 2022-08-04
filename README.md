@@ -9,12 +9,12 @@
 
 ---
 
-## 第１回　（[コード](https://github.com/UC-k/Python_App/blob/main/omikuji01.py)）
+## 第１回
 #### CUIでおみくじアプリ
 - CUIについて
 - 乱数生成
 - リスト
-- おみくじアプリ(CUI)
+- おみくじアプリ(CUI)（[ソースコード](https://github.com/UC-k/Python_App/blob/main/omikuji01.py)）
 #### GUIでおみくじアプリ
 - GUIについて
 - tkinterについて
@@ -23,4 +23,5 @@
   - ボタン
   - キャンバス
   - 画像
-- おみくじアプリ(GUI)
+- おみくじアプリ(GUI)（[画像なしソースコード](#)）
+- おみくじアプリ(GUI)（[画像ありソースコード](#)）
