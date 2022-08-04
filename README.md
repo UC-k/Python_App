@@ -9,9 +9,8 @@
 
 ---
 
-## 第１回
+## 第１回　（[コード](https://github.com/UC-k/Python_App/blob/main/omikuji01.py)）
 #### CUIでおみくじアプリ
-#### [コード](https://github.com/UC-k/Python_App/blob/main/omikuji01.py)
 - CUIについて
 - 乱数生成
 - リスト
