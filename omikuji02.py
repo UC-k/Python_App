@@ -12,7 +12,7 @@ root.configure(bg="#323232")
 root.resizable(False, False)
 
 label = tk.Label(root, text="おみくじ", font=("Helvetica",100),
-                fg="skyblue", bg=None)
+                fg="skyblue", bg="#323232")
 label.place(x=250, y=180, anchor="c")
 
 btn = tk.Button(root, text="引く",font=("Helvetica",30),
