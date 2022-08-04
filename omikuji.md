@@ -167,7 +167,7 @@ cvs.create_image(300, 200, anchor="c", image=img)
 root.mainloop()
 ```
 **備考**<br>
-Githubの「img」ディレクトリにある「sample01.png」をサンプル画像として使用可能。<br>
+Githubの「img」ディレクトリにある[sample01.png](https://github.com/UC-k/Python_App/blob/main/img/sample01.png)をサンプル画像として使用可能。<br>
 ダウンロードして実際に画像が表示されるか試してみてください。<br>
 画像を読み込む際、画像のパス（file="~"）に注意。ダウンロードしてからPythonファイル
 と同じディレクトリに置くと上記のコードのまま実行できる。<br>
