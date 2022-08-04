@@ -8,6 +8,7 @@ def click():
 root = tk.Tk()
 root.title("おみくじアプリ")
 root.geometry("500x500+400+100")
+root.configure(bg="#323232")
 root.resizable(False, False)
 
 label = tk.Label(root, text="おみくじ", font=("Helvetica",100),
