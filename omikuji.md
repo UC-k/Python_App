@@ -89,7 +89,7 @@ root.mainloop()
 ```
 **備考**
 ```
-ラベル変数名　= tkinter.Label(ウィンドウオブジェクト, text="テキスト",
+ラベルの変数名 = tkinter.Label(ウィンドウオブジェクト, text="テキスト",
                             font=("フォント名", フォントサイズ))
 ラベルの変数名.place(x=X座標, y=Y座標, anchor="配置場所")
 ```
@@ -104,5 +104,71 @@ print(tkinter.font.families())
 ```
 
 ### ＜ボタン＞
+ボタンとは、クリック判定を行い、指定した関数を実行する部品である。<br>
+Button( )でボタンを作成し、place( )で配置する。<br>
+**ボタンの生成と配置**
+``` python
+import tkinter
+
+# ボタンがクリックされたときに実行する関数
+def clicked():
+    btn["text"] = "clicked"
+
+root = tkinter.Tk()
+root.title("ボタンの生成と配置")
+root.geometry("600x400")
+# ボタン
+btn = tkinter.Button(root, text="click", font=("System", 18), command=clicked)
+btn.place(x=300, y=200, anchor="c")
+
+root.mainloop()
+```
+**備考**
+```
+ボタンの変数名 = tkinter.Button(ウィンドウオブジェクト, text="テキスト",
+                            font=("フォント名", フォントサイズ), command=関数)
+ボタンの変数名.place(x=X座標, y=Y座標, anchor="配置場所")
+```
+
 ### ＜キャンバス＞
+キャンバスとは、画像や図形を描くための部品である。<br>
+Canvas( )でキャンバスを作成し、pack( )で配置する。<br>
+**キャンバスの生成と配置**
+``` python
+import tkinter
+root = tkinter.Tk()
+root.title("キャンバスの生成と配置")
+cvs = tkinter.Canvas(root, width=600, height=400, bg="grey")
+cvs.pack()
+root.mainloop()
+```
+**備考**
+```
+キャンバスの配置により、ウィンドウのサイズが自動で決定される。
+そのため、root.geometry( )で指定していた記述を省略することができる。
+
+変数名 = tkinter.Canvas(ウィンドウオブジェクト, width=幅, height=高さ, bg=背景色)
+```
+
 ### ＜画像＞
+キャンバスに画像を配置して表示する際、次の２ステップが必要となる。<br>
+1. PhotoImage( )で画像ファイルを読み込む。<br>
+2. create_image( )で描画する。
+
+**画像の読み込みと描画**
+``` python
+import tkinter
+root = tkinter.Tk()
+root.title("画像の読み込みと描画")
+cvs = tkinter.Canvas(root, width=600, height=400)
+cvs.pack()
+img = tkinter.PhotoImage(file="./sample01.png")
+cvs.create_image(300, 200, anchor="c", image=img)
+root.mainloop()
+```
+**備考**<br>
+Githubの「img」ディレクトリにある「sample01.png」をサンプル画像として使用可能。<br>
+ダウンロードして実際に画像が表示されるか試してみてください。<br>
+画像を読み込む際、画像のパス（file="~"）に注意。ダウンロードしてからPythonファイル
+と同じディレクトリに置くと上記のコードのまま実行できる。<br>
+`補足：create_image( )で指定するX座標とY座標は、anchorを指定していないと画像の中心になる。`
