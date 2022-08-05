@@ -22,6 +22,7 @@
   - ウィンドウ（表示、タイトル、サイズ）
   - ラベル
   - ボタン
+    - 関数について
   - キャンバス
   - 画像
 - おみくじアプリ(GUI)（[画像なしソースコード](https://github.com/UC-k/Python_App/blob/main/omikuji02.py)）<br>
