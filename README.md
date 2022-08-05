@@ -25,4 +25,5 @@
   - キャンバス
   - 画像
 - おみくじアプリ(GUI)（[画像なしソースコード](https://github.com/UC-k/Python_App/blob/main/omikuji02.py)）
+  [サンプル](https://github.com/UC-k/Python_App/blob/main/img/sample01.png)
 - おみくじアプリ(GUI)（[画像ありソースコード](#)）
