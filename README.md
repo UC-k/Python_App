@@ -25,10 +25,12 @@
     - 関数について
   - キャンバス
   - 画像
-- おみくじアプリ(GUI)（[画像なしソースコード](https://github.com/UC-k/Python_App/blob/main/omikuji02.py)）<br>
-![サンプル](https://github.com/UC-k/Python_App/blob/main/img/omikuji02.gif)
-- おみくじアプリ(GUI)（[画像ありソースコード](https://github.com/UC-k/Python_App/blob/main/omikuji03.py)）<br>
-![サンプル](https://github.com/UC-k/Python_App/blob/main/img/omikuji03.gif)
+- おみくじアプリ(GUI)（[画像なしソースコード](https://github.com/UC-k/Python_App/blob/main/omikuji02.py)）
+  - ボタンを押したらランダムで結果が表示される<br>
+  ![サンプル](https://github.com/UC-k/Python_App/blob/main/img/omikuji02.gif)
+- おみくじアプリ(GUI)（[画像ありソースコード](https://github.com/UC-k/Python_App/blob/main/omikuji03.py)）
+  - 背景に画像を配置<br>
+  ![サンプル](https://github.com/UC-k/Python_App/blob/main/img/omikuji03.gif)
 - おみくじアプリ（応用）
   - 重み付け（大吉と凶は他より出にくい）
   - 画像をボタンとして機能
@@ -36,4 +38,4 @@
   - 結果をそれぞれに対応した画像で表示
   - 「もう一度」で連続してプレイすることが可能
   - 「やめる」でウィンドウを閉じることが可能<br>
-![サンプル](https://github.com/UC-k/Python_App/blob/main/img/omikuji04.gif)
+  ![サンプル](https://github.com/UC-k/Python_App/blob/main/img/omikuji04.gif)
