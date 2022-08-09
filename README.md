@@ -6,7 +6,7 @@
 下記の「おみくじアプリについて」と「診断アプリについて」のリンク先から学習しましょう。<br>
 
 ### [おみくじアプリについて](https://github.com/UC-k/Python_App/blob/main/omikuji.md)
-### [診断アプリについて](#)
+### [診断アプリについて](https://github.com/UC-k/Python_App/blob/main/shindan.md)
 ### [役に立つ付録](#)
 ### [サンプルアプリのgif画像集（実際のプログラムの動きが見れます）](#)
 
