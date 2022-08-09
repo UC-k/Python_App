@@ -20,4 +20,19 @@
 ## 診断アプリ
 
 ### [診断アプリ（基本）](https://github.com/UC-k/Python_App/blob/main/shindan01.py)
-![3](https://github.com/UC-k/Python_App/blob/main/img/shindan01.gif)
+![3](https://github.com/UC-k/Python_App/blob/main/img/shindan01.gif)<br>
+
+<br>
+
+### bind
+![4](https://github.com/UC-k/Python_App/blob/main/img/bind.gif)<br>
+
+<br>
+
+### after
+![5](https://github.com/UC-k/Python_App/blob/main/img/after.gif)<br>
+
+<br>
+
+### 診断アプリ（応用）
+![6](https://github.com/UC-k/Python_App/blob/main/img/shindan02.gif)
