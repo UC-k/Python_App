@@ -7,7 +7,7 @@
 
 ### [おみくじアプリについて](https://github.com/UC-k/Python_App/blob/main/omikuji.md)
 ### [診断アプリについて](https://github.com/UC-k/Python_App/blob/main/shindan.md)
-### [役に立つ付録](#)
+### [役に立つ付録（準備中）](#)
 ### [サンプルアプリのgif画像集（実際のプログラムの動きが見れます）](#)
 
 ---
