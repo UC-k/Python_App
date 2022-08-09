@@ -11,12 +11,12 @@
 ---
 
 ## 第１回〜第２回
-#### CUIでおみくじアプリ
+### CUIでおみくじアプリ
 - CUIについて
 - 乱数生成
 - リスト
 - おみくじアプリ(CUI)（[ソースコード](https://github.com/UC-k/Python_App/blob/main/omikuji01.py)）
-#### GUIでおみくじアプリ
+### GUIでおみくじアプリ
 - GUIについて
 - tkinterについて
   - ウィンドウ（表示、タイトル、サイズ）
@@ -39,3 +39,8 @@
   - 「もう一度」で連続してプレイすることが可能
   - 「やめる」でウィンドウを閉じることが可能<br>
   ![サンプル](https://github.com/UC-k/Python_App/blob/main/img/omikuji04.gif)
+
+## 第３回〜６回（８回）
+### 診断アプリ
+- 診断アプリ<br>
+  ![サンプル](https://github.com/UC-k/Python_App/blob/main/img/shindan01.gif)
