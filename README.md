@@ -41,6 +41,14 @@
   ![サンプル](https://github.com/UC-k/Python_App/blob/main/img/omikuji04.gif)
 
 ## 第３回〜６回（８回）
+### 診断アプリで学習する内容
+- テキスト入力
+  - Enter（１行）
+  - Text（複数行）
+- チェックボタン
+  - チェックボタンとラジオボタン
+  - リスト内包表記
+  - チェックボタンの仕様
 ### 診断アプリ
-- 診断アプリ<br>
+- 診断アプリ（基本）<br>
   ![サンプル](https://github.com/UC-k/Python_App/blob/main/img/shindan01.gif)
