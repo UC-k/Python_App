@@ -100,8 +100,8 @@ underline|アンダーライン|True, False|
 import tkinter as tk
 
 root = tk.Tk()
-root.back
-tk.config(bg = "blue")
+root.config(bg = "blue")
+root.mainloop()
 ```
 <br>
 
