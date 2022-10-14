@@ -13,7 +13,7 @@
 ### [Spyderを日本語化する方法](https://github.com/UC-k/Python_App/blob/main/japanese.md)
 <br>
 ### [分岐１（トーナメント型）](https://github.com/UC-k/Python_App/blob/main/branch.py)
---- [分岐２（リーグ型）](https://github.com/UC-k/Python_App/blob/main/count.py)
+### [分岐２（リーグ型）](https://github.com/UC-k/Python_App/blob/main/count.py)
 
 ### 質問
 授業の時間以外でアプリ作成を進める際、質問がしたい場合は以下のリンクから質問をしてください。<br>
