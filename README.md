@@ -18,7 +18,9 @@
 診断アプリの質問項目において分岐する方法を載せます。<br>
 
 ### [分岐１（トーナメント型）](https://github.com/UC-k/Python_App/blob/main/branch.py)
+### [分岐１（トーナメント型_図）](https://github.com/UC-k/Python_App/blob/main/branch1.png)
 ### [分岐２（リーグ型）](https://github.com/UC-k/Python_App/blob/main/count.py)
+### [分岐２（リーグ型）](https://github.com/UC-k/Python_App/blob/main/branch2.png)
 
 ---
 
