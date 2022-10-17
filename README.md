@@ -29,7 +29,7 @@
 集まった質問への回答は質問のリンク下のリンクから確認することができます。<br>
 
 ### [Python_診断アプリ質問フォーム](https://forms.gle/9p1MuVMsTx8juq818)
-### [Python_質問と回答一覧](#)
+### [Python_質問と回答一覧](https://dstoyama.adm.u-toyama.ac.jp/file/python/)
 ---
 
 <br>
