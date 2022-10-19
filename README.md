@@ -32,7 +32,7 @@
 ### [Python_質問と回答一覧](https://dstoyama.adm.u-toyama.ac.jp/file/python/)
 ---
 
-### [ラジオボタンの選択肢の変更と比重の変更](#)
+### [ラジオボタンの選択肢の変更と比重の変更](https://github.com/UC-k/Python_App/blob/main/question/select.py)
 ### [チェックボタンのチェックの有無でテキストを表示・非表示にする](https://github.com/UC-k/Python_App/blob/main/question/hide.py)
 
 ---
