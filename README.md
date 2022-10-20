@@ -34,6 +34,7 @@
 
 ### [ラジオボタンの選択肢の変更と比重の変更](https://github.com/UC-k/Python_App/blob/main/question/select.py)
 ### [チェックボタンのチェックの有無でテキストを表示・非表示にする](https://github.com/UC-k/Python_App/blob/main/question/hide.py)
+### [トーナメント型の分岐を増やす](https://github.com/UC-k/Python_App/blob/main/question/tournament.py)
 
 ---
 
