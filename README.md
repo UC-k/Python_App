@@ -21,6 +21,7 @@
 ### [分岐１（トーナメント型_図）](https://github.com/UC-k/Python_App/blob/main/branch1.png)
 ### [分岐２（リーグ型）](https://github.com/UC-k/Python_App/blob/main/count.py)
 ### [分岐２（リーグ型_図）](https://github.com/UC-k/Python_App/blob/main/branch2.png)
+### [ロード画面](https://github.com/UC-k/Python_App/blob/main/question/shindan.py)
 
 ---
 
