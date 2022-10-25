@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 20 09:48:03 2022
-
-@author: kadoi
-"""
-
 import tkinter as tk
 # ----------------------------------------
 # 関数
@@ -117,9 +109,9 @@ def result():
     elif var_check == 9:
         N3_2_lbl.place(x=300, y=300, anchor="c")
     elif var_check == 10:
-        Y3_1_lbl.place(x=300, y=300, anchor="c")
+        Y3_3_lbl.place(x=300, y=300, anchor="c")
     elif var_check == 11:
-        N3_2_lbl.place(x=300, y=300, anchor="c")
+        N3_3_lbl.place(x=300, y=300, anchor="c")
     elif var_check == 12:
         Y3_4_lbl.place(x=300, y=300, anchor="c")
     elif var_check == 13:
